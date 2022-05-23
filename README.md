@@ -1,6 +1,6 @@
 ## Sharing the effort of the European Green Deal among countries
 ### Steininger, K.W., Williges, K., Meyer, L.H., Maczek, F., and Riahi, K.
-This repository consists of a static version of all code used in creation of the paper, as well as the necessary datasets to reproduce all results.
+This repository consists of a static version of all code used in creation of the results as reported and analysed in the paper, as well as the necessary datasets to reproduce all results.
 
 ### Code files
 The calculations distributing emissions as described in the paper are programmed in python. After calculation of the range of possible combinations of equity interpretations via the python script and/or Jupyter notebook, assessment of negotiation convergence points, final analysis and figures is carried out in R.
